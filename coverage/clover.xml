@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1667385443533" clover="3.2.0">
+  <project timestamp="1667385443533" name="All files">
+    <metrics statements="16" coveredstatements="13" conditionals="6" coveredconditionals="3" methods="10" coveredmethods="7" elements="32" coveredelements="23" complexity="0" loc="16" ncloc="16" packages="2" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="/home/rizwan/reactapp/assignment/src/App.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="15" coveredstatements="12" conditionals="6" coveredconditionals="3" methods="9" coveredmethods="6"/>
+      <file name="CommonAPI.js" path="/home/rizwan/reactapp/assignment/src/components/CommonAPI.js">
+        <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+      <file name="FirstAPI.js" path="/home/rizwan/reactapp/assignment/src/components/FirstAPI.js">
+        <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="MergedAPI.js" path="/home/rizwan/reactapp/assignment/src/components/MergedAPI.js">
+        <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
